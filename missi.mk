@@ -14,7 +14,7 @@ $(call inherit-product, device/xiaomi/missi/device.mk)
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 PRODUCT_DEVICE := missi
-PRODUCT_NAME := lineage_missi
+PRODUCT_NAME := missi
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := missi
 PRODUCT_MANUFACTURER := xiaomi
